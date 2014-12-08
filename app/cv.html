@@ -1,0 +1,255 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title></title>
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+	
+	<!-- load Typekit  fonts -->
+	<script src="//use.typekit.net/otq2uuf.js"></script>
+	<script>try{Typekit.load();}catch(e){}</script>
+	
+	<link rel="stylesheet" href="styles/main.css">
+	<link rel="stylesheet" href="styles/expert.css">
+	<!-- build:js scripts/vendor/modernizr.js -->
+	<script src="bower_components/modernizr/modernizr.js"></script>
+	<!-- endbuild -->
+</head>
+<body>
+	<header>
+		<!-- Static navbar -->
+		<nav class="navbar navbar-default navbar-static-top" role="navigation">
+			<div class="container">
+				<div class="navbar-header">
+				</div>
+				<div id="navbar" class="navbar-collapse collapse">
+					<ul class="nav navbar-nav">
+					</ul>
+					<ul class="nav navbar-nav navbar-right">
+					</ul>
+					</div><!--/.nav-collapse -->
+				</div>
+			</nav>
+			<div class="container">
+				<div class="row logo-row "><img class="logo "src="images/logo.png"></div>
+			</div>
+		</header>
+		<!-- progress-bar  -->
+		<div class=" container progress-container hidden-xs">
+			<div class="row smpl-step mb hidden-xs" style="border-bottom: 0; min-width: 500px;">
+				<div class="col-xs-4 smpl-step-step complete">
+					<div class="text-center smpl-step-num">CASE OVERVIEW</div>
+					<div class="progress">
+						<div class="progress-bar"></div>
+					</div>
+					<div class="smpl-step-icon first">1</div>
+					<!-- <div class="smpl-step-info text-center">Case Overview</div> -->
+				</div>
+				<div class="col-xs-4 smpl-step-step active">
+					<div class="text-center smpl-step-num"> CV / INFO</div>
+					<div class="progress">
+						<div class="progress-bar"></div>
+					</div>
+					<div class="smpl-step-icon">2</div>
+					<!-- <div class="smpl-step-info text-center">Your fee schedule</div> -->
+				</div>
+				<div class="col-xs-4 smpl-step-step disabled">
+					<div class="text-center smpl-step-num">FINISH</div>
+					<div class="progress">
+						<div class="progress-bar"></div>
+					</div>
+					<a class="smpl-step-icon">3</a>
+					<!-- <div class="smpl-step-info text-center">Upload CV</div> -->
+				</div>
+			</div>
+			</div><!--  end progress bar -->
+
+
+
+			<!--begin form -->
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6 col-md-offset-3 mb mt text-center">
+						<h2>In order to be retained on this case, we need to know a little more about you.</h2>
+						<p>Please update the information below</p>
+					</div>
+				    <div class="col-md-6 col-md-offset-3">
+
+				        <form class="form-horizontal validate-form" name="cvform" method="post" action="feedback.php" enctype="multipart/form-data">
+
+				        
+				            <fieldset>
+				                <!-- Form Name -->
+				                <legend>Upload CV / Resume</legend>
+				                <!-- File Button -->
+				                <div class="form-group mb">
+				                    <label class="col-sm-6 control-label" for="filebutton">Upload  <em> (doc/pdf/txt)</em></label>
+				                    <div class="col-sm-6">
+				                        <input id="filebutton" name="filebutton" class="input-file pt" type="file">
+				                    </div>
+				                </div>
+				            </fieldset>
+				            
+				
+				        <fieldset>
+				            <legend>Fee Information</legend>
+
+				                <div class="form-group">
+				                    <label for="inputCRfee" class="control-label col-sm-4 col-xs-6">Chart Review Fee</label>
+				                    <div class="col-sm-3 col-xs-6">
+				                        <input type="text" class="validate" name="inputCRfee" placeholder="$400 " required/>
+
+				                        <span class="message">What's your hourly rate for doing chart reviews?</span>
+				                    </div>
+				                </div>
+
+				                <div class="form-group">
+				                    <label for="inputDepfee" class="control-label col-sm-4 col-xs-6 ">Deposition Fee</label>
+				                    <div class="col-sm-3 col-xs-6">
+				                        <input type="text" class="validate" name="inputDepfee" placeholder="$700 /HR" required>
+				                        <span class="message">What's your hourly rate for depositions?</span>
+				                    </div>
+				                </div>
+
+				                <div class="form-group">
+				                    <label for="inputCourtfee" class="control-label col-sm-4 col-xs-6 ">Court  Fee</label>
+				                    <div class="col-sm-3 col-xs-6">
+				                        <input type="text" class="validate" name="inputCourtfee" placeholder="$500 /HR" required>
+				                        <span class="message">What's your hourly rate for  court appearances?</span>
+				                    </div>
+				                </div>
+
+				                <div class="form-group">
+				                    <label for="inputExamfee" class="control-label col-sm-4 col-xs-6 ">Examination  Fee</label>
+				                    <div class="col-sm-3 col-xs-6">
+				                        <input type="text" class="validate" name="inputExamfee" placeholder="$500 /HR" required>
+				                        <span class="message">What's your hourly rate for examinations?</span>
+				                    </div>
+				                </div>
+
+				                <div class="form-group">
+				                    <label for="inputFeecom" class="control-label col-sm-4 col-xs-12 "> Fee Comments</label>
+				                    <div class="col-xs-12 col-sm-8">
+				                        <textarea type="textarea" class="" name="inputFeecom" placeholder="Enter any additional information about your fee schedule (optional)"></textarea>
+				                        <span class="message">Enter any additional information about your fee schedule</span>
+				                    </div>
+				                </div>
+				            </fieldset>
+
+
+
+				            <br>
+
+				            <div class="col-sm-12">
+				                    <fieldset>
+				                        <!-- Form Name -->
+				                        <legend>Legal Experience</legend>
+				                        <!-- Text input-->
+				                        <div class="form-group">
+				                            <label class="col-md-4 control-label" for="legal-dep">No. of Depositions</label>
+				                            <div class="col-md-2">
+				                                <input id="legal-dep" name="legal-dep" type="text" placeholder="3" class="validate input-md" required>
+				                                
+				                            </div>
+				                        </div>
+				                        <!-- Text input-->
+				                        <div class="form-group">
+				                            <label class="col-md-4 control-label" for="legal-test">No. of Testimonies</label>
+				                            <div class="col-md-2">
+				                                <input id="legal-test" name="legal-test" type="text" placeholder="4" class="validate input-md" required>
+				                                
+				                            </div>
+				                        </div>
+				                        <!-- Text input-->
+				                        <div class="form-group">
+				                            <label class="col-md-4 control-label" for="legal-reviews">No. of Case Reviews</label>
+				                            <div class="col-md-2">
+				                                <input id="legal-reviews" name="legal-reviews" type="text" placeholder="10" class="validate input-md" required>
+				                            </div>
+				                            <div class="col-md-6 pt">
+				                                <span class="small">in general, for which side?</span>
+				                            </div>
+				                        </div>
+				                        <!-- legal slider-->
+				                        <div class="form-group legal-slider mb">
+				                            <label for="side-slider" class="col-md-4 control-label"></label>
+				                            <div class="col-md-8 col-xs-12s  " >
+				                                <strong>Plaintiff:</strong> <span id ="plaintiff_value">50%   </span> <span class="float-right"><strong>Defense:</strong> <span id="defense_value" >50%</span></span>
+				                                <input id="side-slider"type="range"  min="0" max="100" name="sld3" value="50" step="5" onchange="show_value(this.value);" required>
+				                                
+				                            </div>
+				                        </div>
+				                        </fieldset>
+				                    
+
+				                                        <div class="form-group mb">
+				                                            <div class="col-md-offset-2 col-md-8 col-xs-12">
+				                                                <!-- <button type="submit" class="submit send" disabled="true">FINISH</button> -->
+				                                               <a href="thanks.html"><button class="submit send">FINISH</button></a>
+				                                            </div>
+
+				                                        </div>
+
+				                                        
+				                	
+				            </div>
+
+				        </form>
+				    </div>
+				</div>
+			</div>
+			
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+								</div> <!-- end main container  -->
+								</div> <!-- END CONTAINER -->
+								<!--[if lt IE 7]>
+									<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+								<![endif]-->
+								<!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+								<script>
+									(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+									function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+									e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+									e.src='//www.google-analytics.com/analytics.js';
+									r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+									ga('create','UA-XXXXX-X');ga('send','pageview');
+								</script>
+								<!-- build:js scripts/main.js -->
+								<script src="bower_components/jquery/jquery.js"></script>
+								<script src="scripts/jquery.sglide.2.1.0.min.js"></script>
+								<script src="scripts/main.js"></script>
+								<script src="scripts/hello.js"></script>
+								<!-- endbuild -->
+								<!-- build:js scripts/vendor/bootstrap.js -->
+								<script src="bower_components/bootstrap/js/affix.js"></script>
+								<script src="bower_components/bootstrap/js/alert.js"></script>
+								<script src="bower_components/bootstrap/js/dropdown.js"></script>
+								<script src="bower_components/bootstrap/js/tooltip.js"></script>
+								<script src="bower_components/bootstrap/js/modal.js"></script>
+								<script src="bower_components/bootstrap/js/transition.js"></script>
+								<script src="bower_components/bootstrap/js/button.js"></script>
+								<script src="bower_components/bootstrap/js/popover.js"></script>
+								<script src="bower_components/bootstrap/js/carousel.js"></script>
+								<script src="bower_components/bootstrap/js/scrollspy.js"></script>
+								<script src="bower_components/bootstrap/js/collapse.js"></script>
+								<script src="bower_components/bootstrap/js/tab.js"></script>
+								<!-- endbuild -->
+							</body>
+						</html>

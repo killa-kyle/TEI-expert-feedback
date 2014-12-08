@@ -1,0 +1,1616 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"col-",
+				"col-sm-12"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"progre",
+				"progress-bar"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"col",
+				"col-sm-12"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"tran",
+				"translateY()"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"col-md",
+				"col-md-6"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"bor",
+				"border-right"
+			],
+			[
+				"op",
+				"op	opacity"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"contain",
+				"container"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"currne",
+				"currentLocationName"
+			],
+			[
+				"load",
+				"loadWeather"
+			],
+			[
+				"hum",
+				"humidityBarWidth"
+			],
+			[
+				"css",
+				"css	.css() - single"
+			],
+			[
+				"current",
+				"currentHumidity"
+			],
+			[
+				"curre",
+				"currentHumidity"
+			],
+			[
+				"curren",
+				"currentTemp"
+			],
+			[
+				"r",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"ready",
+				"ready	$(document).ready"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"save",
+				"savebtn"
+			],
+			[
+				"ans",
+				"answers"
+			],
+			[
+				"answer",
+				"answerLoop"
+			],
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"Local",
+				"localStorage"
+			],
+			[
+				"user",
+				"userVersion"
+			],
+			[
+				"local",
+				"localStorage"
+			],
+			[
+				"inn",
+				"innerHTML"
+			],
+			[
+				"div",
+				"divHtml"
+			],
+			[
+				"kyle-",
+				"kyle-acc"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"kyle",
+				"kyle-third"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"kyl",
+				"kyle-acc"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"header",
+				"headerParallax"
+			],
+			[
+				"ky",
+				"kyle-acc"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"btn",
+				"btn-soc"
+			],
+			[
+				"height",
+				"height"
+			],
+			[
+				"bgc",
+				"background-color"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"hs",
+				"hsla()"
+			],
+			[
+				"br",
+				"border-radius"
+			],
+			[
+				"get",
+				"getGender"
+			],
+			[
+				"gender",
+				"genderpick"
+			],
+			[
+				"bs3-btn",
+				"bs3-button:warning	bs3-button-warning"
+			],
+			[
+				"gen",
+				"genderChoice"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"instafee",
+				"Instafeed"
+			],
+			[
+				"bs3-butt",
+				"bs3-button:primary	bs3-button-primary"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"bower",
+				"bower_components"
+			],
+			[
+				"rb",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"have_",
+				"have_posts"
+			],
+			[
+				"hav",
+				"have_posts"
+			],
+			[
+				"tem",
+				"template_directory"
+			],
+			[
+				"wp_nav",
+				"wp_nav_menu"
+			],
+			[
+				"register_nav",
+				"register_nav_menus"
+			],
+			[
+				"add_theme",
+				"add_theme_support"
+			],
+			[
+				"add_f",
+				"add_filter"
+			],
+			[
+				"wp_en",
+				"wp_enqueue_scripts"
+			],
+			[
+				"html5",
+				"html5_shiv"
+			],
+			[
+				"wp_reg",
+				"wp_register_script"
+			],
+			[
+				"get_tem",
+				"get_template_directory_uri"
+			],
+			[
+				"wp_enqueu",
+				"wp_enqueue_style"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"v",
+				"visibility"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"pading",
+				"padding-top"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"webkit-back",
+				"webkit-background-size"
+			],
+			[
+				"bg",
+				"bgc	background-color"
+			],
+			[
+				"don",
+				"dondon-red"
+			],
+			[
+				"navbar",
+				"navbar-toggle"
+			],
+			[
+				"read",
+				"ready	jQuery(document).ready"
+			],
+			[
+				"collapse",
+				"collapseTwo"
+			],
+			[
+				"scr",
+				"scrollTop	.scrollTop()"
+			],
+			[
+				"design",
+				"design_scroll"
+			],
+			[
+				"has",
+				"hasClass	.hasClass()"
+			],
+			[
+				"des",
+				"design_critiques"
+			],
+			[
+				"sub",
+				"subredditname"
+			],
+			[
+				"json",
+				"jsondata"
+			],
+			[
+				"subr",
+				"subredditname"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"repl",
+				"replacedText"
+			],
+			[
+				"d",
+				"data	.data()"
+			],
+			[
+				"app",
+				"append	.append()"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"redd",
+				"reddit-content"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"img",
+				"img-responsive"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"sp",
+				"letter-spacing"
+			],
+			[
+				"rep",
+				"repeat"
+			],
+			[
+				"background-i",
+				"background-image"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"col-md-of",
+				"col-md-offset-3	BootstrapClass"
+			],
+			[
+				"col-md-off",
+				"col-md-offset-3	BootstrapClass"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 8784,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/styles/main.less",
+			"settings":
+			{
+				"buffer_size": 3465,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 9032,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/cv.html",
+			"settings":
+			{
+				"buffer_size": 10490,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/thanks.html",
+			"settings":
+			{
+				"buffer_size": 6559,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/scripts/main.js",
+			"settings":
+			{
+				"buffer_size": 888,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/Chrome.sublime-build",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdwon",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"PACKA",
+				"Package Control: Install Package"
+			],
+			[
+				"instalkl",
+				"Package Control: Install Package"
+			],
+			[
+				"view",
+				"View In Browser"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"PACK",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"gist",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"c",
+				"Color Picker"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 754.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"package",
+			"appealr",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/killakyle/Dropbox/TEI/Expert Feedback Page/code - Expert Feedback",
+		"/Users/killakyle/Dropbox/TEI/Expert Feedback Page/code - Expert Feedback/app",
+		"/Users/killakyle/Dropbox/TEI/Expert Feedback Page/code - Expert Feedback/app/styles"
+	],
+	"file_history":
+	[
+		"/Users/killakyle/Dropbox/TEI/Expert Feedback Page/code - Expert Feedback/app/styles/test.css",
+		"/Users/killakyle/Web Design/wordpress/wp-content/themes/killakyle/front-page.php",
+		"/Users/killakyle/Dropbox/TEI/Expert Feedback Page/code - Expert Feedback/app/styles/main.css",
+		"/Users/killakyle/Dropbox/TEI/Expert Feedback Page/code - Expert Feedback/app/styles/test.less",
+		"/Users/killakyle/Dropbox/TEI/Expert Feedback Page/code - Expert Feedback/Gruntfile.js",
+		"/Users/killakyle/Dropbox/TEI/Expert Feedback Page/code - Expert Feedback/app/styles/expert.css",
+		"/Users/killakyle/Downloads/jquery.sglide.2.1.0.min.js",
+		"/Users/killakyle/Downloads/jasny-bootstrap/js/jasny-bootstrap.js",
+		"/Users/killakyle/Dropbox/TEI/Expert Feedback Page/code - Expert Feedback/app/progress.html",
+		"/Users/killakyle/Dropbox/TEI/Expert Feedback Page/code/app/progress_raw.html",
+		"/Users/killakyle/Dropbox/TEI/Expert Share Page/code/app/scripts/main.js",
+		"/Users/killakyle/Dropbox/TEI/Expert Share Page/code/Gruntfile.js",
+		"/Users/killakyle/Dropbox/TEI/Expert Share Page/code/dist/styles/0e7bdcfa.main.css",
+		"/Users/killakyle/Dropbox/TEI/Expert Share Page/code/app/styles/oldstyles.css",
+		"/Users/killakyle/Dropbox/TEI/Expert Share Page/code/app/styles/expert.less",
+		"/Users/killakyle/Dropbox/TEI/Expert Share Page/code/app/styles/main.css",
+		"/Users/killakyle/Dropbox/TEI/Expert Share Page/code/app/styles/main.less",
+		"/Users/killakyle/Dropbox/TEI/Expert Share Page/TEI - Expert share page code/build/kits/partials/header.kit",
+		"/Users/killakyle/Dropbox/TEI/Expert Share Page/TEI - Expert share page code/build/kits/index.kit",
+		"/Users/killakyle/Dropbox/TEI/Expert Share Page/TEI - Expert share page code/build/styles/scss/partials/viewport.scss",
+		"/Users/killakyle/Dropbox/TEI/Expert Share Page/TEI - Expert share page code/build/styles/scss/app.scss",
+		"/Users/killakyle/Dropbox/TEI/Expert Share Page/TEI - Expert share page code/build/styles/scss/partials/expert.scss",
+		"/Users/killakyle/Downloads/N Carolina Hardwood.xml",
+		"/Users/killakyle/Downloads/N Carolina Hardwood.ase",
+		"/Users/killakyle/Dropbox/expertsharestyle.css",
+		"/Users/killakyle/web/assets/Moscow vibes.ase",
+		"/Users/killakyle/Downloads/COLOURlovers.com_Before_and_after.ase",
+		"/Users/killakyle/web/projects/jonathan-bannister/.gitignore",
+		"/Users/killakyle/web/projects/jonathan-bannister/.git/COMMIT_EDITMSG",
+		"/Users/killakyle/web/projects/jonathan-bannister/dist/index.html",
+		"/Users/killakyle/web/projects/jonathan-bannister/Gruntfile.js",
+		"/Users/killakyle/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/killakyle/Library/Application Support/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/killakyle/Downloads/genesis/README.md",
+		"/Users/killakyle/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/killakyle/web/projects/InterviewQuestions/build/styles/less/libraries.less",
+		"/Users/killakyle/web/projects/InterviewQuestions/build/lib/animate/animate.less",
+		"/Users/killakyle/web/projects/InterviewQuestions/app/Textile.php",
+		"/Users/killakyle/web/projects/InterviewQuestions/app/answers.php",
+		"/Users/killakyle/web/projects/InterviewQuestions/app/save.php",
+		"/Users/killakyle/web/projects/InterviewQuestions/app/index.html",
+		"/Users/killakyle/web/projects/InterviewQuestions/build/js/app.js",
+		"/Users/killakyle/Downloads/jquery_jeditable-master/php/save.php",
+		"/Users/killakyle/web/projects/InterviewQuestions/build/styles/less/globals/colors.less",
+		"/Users/killakyle/web/projects/InterviewQuestions/build/styles/less/globals/fonts.less",
+		"/Users/killakyle/web/projects/InterviewQuestions/build/styles/less/app.less",
+		"/Users/killakyle/web/projects/InterviewQuestions/build/styles/less/partials/viewport.less",
+		"/Users/killakyle/web/projects/killakyle.com/build/kits/index.kit",
+		"/Users/killakyle/Downloads/Capo-Dark.tmTheme",
+		"/Users/killakyle/web/projects/killakyle.com/build/lib/animate/animate.css",
+		"/Users/killakyle/web/projects/killakyle.com/build/kits/partials/header-about.kit",
+		"/Users/killakyle/web/projects/killakyle.com/build/styles/scss/libraries.scss",
+		"/Users/killakyle/web/projects/killakyle.com/build/lib/README",
+		"/Users/killakyle/web/projects/killakyle.com/app/designcc2/style.css",
+		"/Users/killakyle/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/killakyle/web/projects/killakyle.com/app/index.html",
+		"/Users/killakyle/Library/Caches/Cleanup At Startup/Transmit/2C11E9F9-922B-4BBF-B08C-FF2CC26C8CF2/main.js",
+		"/Users/killakyle/web/projects/killakyle.com/build/lib/bootstrap/less/thumbnails.less",
+		"/Users/killakyle/web/projects/killakyle.com/build/TODO",
+		"/Users/killakyle/web/projects/killakyle.com/app/designCC/styles/bootstrap.css",
+		"/Users/killakyle/web/projects/killakyle.com/build/kits/partials/portfolio.kit",
+		"/Users/killakyle/Library/Application Support/Sublime Text 3/Packages/Javascript Beautify/JavascriptBeautify.sublime-settings",
+		"/Volumes/killakyle.com/killakyle.com/pholder_index.html",
+		"/Users/killakyle/Library/Application Support/Sublime Text 3/Packages/User/JavascriptBeautify.sublime-settings",
+		"/Users/killakyle/Library/Caches/Cleanup At Startup/Transmit/56705007-19D2-412E-A827-3663CF341E04/.htaccess",
+		"/Users/killakyle/web/projects/killakyle.com/build/styles/scss/app.scss",
+		"/Users/killakyle/web/projects/killakyle.com/app/favicon.ico",
+		"/Users/killakyle/web/projects/killakyle.com/app/_/css/app.css",
+		"/Users/killakyle/Desktop/User/Preferences.sublime-settings",
+		"/Users/killakyle/web/projects/killakyle.com/build/kits/partials/header.kit",
+		"/Users/killakyle/web/projects/killakyle_static/app/styles/buttons.scss",
+		"/Users/killakyle/web/projects/killakyle_static/app/favicon.ico",
+		"/Users/killakyle/web/wordpress/wp-content/themes/brew-master/library/less/style.less",
+		"/Users/killakyle/Library/Caches/Cleanup At Startup/Transmit/EF138327-6909-4E3D-8B4D-B8A0D62D9E39/.htaccess",
+		"/Users/killakyle/web/wordpress/wp-content/themes/brew-master/functions.php",
+		"/Users/killakyle/web/wordpress/wp-content/themes/brew-master/library/bones.php",
+		"/Users/killakyle/Library/Caches/Cleanup At Startup/Transmit/224BE33F-E9C4-4793-804D-C5C3C5471109/index.html",
+		"/Users/killakyle/Downloads/agency/css/agency.css",
+		"/Users/killakyle/Downloads/Bootstrap HTML5 Responsive Templates/Agency/index.html",
+		"/Users/killakyle/web/wordpress/wp-content/themes/brew-master/library/less/brew/global.less",
+		"/Volumes/killakyle.com/killakyle.com/weather/ti.forecast.io.js",
+		"/Users/killakyle/Library/Caches/Cleanup At Startup/Transmit/71F91F00-F618-4152-B27D-6721B0B841CA/index.html",
+		"/Users/killakyle/Library/Caches/Cleanup At Startup/Transmit/AB3B9A03-6369-45D3-A1BC-170A7AFEE8D9/index.html",
+		"/Users/killakyle/Downloads/tips-for-getting-a-web-design-from-illustrator-into-the-browser-master/1-starting-point/css/bootstrap-select.css",
+		"/Users/killakyle/Downloads/tips-for-getting-a-web-design-from-illustrator-into-the-browser-master/1-starting-point/js/name.js",
+		"/Users/killakyle/Downloads/HoverEffectIdeas/js/instafeed.min.js",
+		"/Users/killakyle/web/projects/Vincent instagram template/js/instafeed.min.js",
+		"/Users/killakyle/web/projects/Vincent instagram template/css/style.css",
+		"/Users/killakyle/web/projects/Vincent instagram template/config.codekit",
+		"/Users/killakyle/web/projects/Vincent instagram template/js/app.js",
+		"/Users/killakyle/web/projects/Vincent instagram template/index.html",
+		"/Users/killakyle/web/seven eight/app/styles/main.css",
+		"/Users/killakyle/web/seven eight/app/index.html",
+		"/Users/killakyle/web/projects/dondonblog/app/_/css/app.css",
+		"/Users/killakyle/web/projects/dondonblog/app/index.html",
+		"/Users/killakyle/web/wordpress/wp-config.php",
+		"/Users/killakyle/web/clean-blog/css/clean-blog.css",
+		"/Users/killakyle/web/seven eight/app/bower_components/bootstrap/less/wells.less",
+		"/Users/killakyle/web/seveneight/Gruntfile.js",
+		"/Users/killakyle/web/seveneight/app/scss/_appstyles.scss",
+		"/Users/killakyle/web/seveneight/app/index.html",
+		"/Users/killakyle/Downloads/pagePiling.js-master/examples/noAnchors.html",
+		"/Users/killakyle/Downloads/pagePiling.js-master/examples/examples.css",
+		"/Users/killakyle/web/basline.css",
+		"/Users/killakyle/web/projects/danceapp landing page/less/typography.less",
+		"/Users/killakyle/web/projects/danceapp landing page/less/app.less",
+		"/Users/killakyle/web/projects/danceapp landing page/index.html",
+		"/Users/killakyle/web/wordpress/wp-content/themes/brew-master/library/less/brew/kyle.less",
+		"/Users/killakyle/web/wordpress/wp-content/themes/brew-master/library/less/brew/content.less",
+		"/Users/killakyle/web/wordpress/wp-content/themes/brew-master/page-home.php",
+		"/Users/killakyle/web/wordpress/wp-content/themes/brew-master/library/js/scripts.js",
+		"/Users/killakyle/web/wordpress/wp-content/themes/brew-master/style.css",
+		"/Users/killakyle/web/wordpress/wp-content/themes/brew-master/comments.php",
+		"/Users/killakyle/web/wordpress/wp-content/themes/brew-master/header.php",
+		"/Users/killakyle/web/wordpress/wp-content/themes/brew-master/single.php",
+		"/Users/killakyle/web/wordpress/wp-content/themes/brew-master/library/less/brew/buttons.less",
+		"/Users/killakyle/web/wordpress/wp-content/themes/brew-master/footer.php",
+		"/Users/killakyle/web/wordpress/wp-content/themes/brew-master/index.php",
+		"/Users/killakyle/Documents/track.svg",
+		"/Users/killakyle/web/wordpress/wp-content/themes/brew-master/BREW_footer.php",
+		"/Users/killakyle/web/wordpress/wp-content/themes/brew-master/page-full-width.php",
+		"/Users/killakyle/web/wordpress/wp-content/themes/brew-master/page.php",
+		"/Users/killakyle/web/wordpress/wp-content/themes/brew-master/library/admin/license.txt",
+		"/Users/killakyle/web/wordpress/wp-content/themes/brew-master/library/less/custom-variables.less",
+		"/Users/killakyle/web/wordpress/wp-content/themes/brew-master/homeheader.php",
+		"/Users/killakyle/web/wordpress/wp-content/themes/brew-master/library/less/brew/footer.less",
+		"/Users/killakyle/web/wordpress/wp-content/themes/brew-master/library/less/bootstrap/media.less",
+		"/Users/killakyle/web/projects/bs kickstart/index.html"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/Users/killakyle/web/projects/killakyle_static",
+			"<project>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"h1",
+			"border-rad",
+			"!DOCTYPE html><html class=no-js><head><meta charset=utf-8><title>jonathan bannister</title><meta name=description content=\"\"><meta name=viewport content=\"width=device-width, initial-scale=1\"><link rel=\"shortcut icon\" href=/6df2b309.favicon.ico><!-- Place favicon.ico and apple-touch-icon.png in the root directory --><link href=//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css rel=stylesheet><link href=\"http://fonts.googleapis.com/css?family=Raleway:400, 600, 700\" rel=stylesheet type=text/css><link href=\"http://fonts.googleapis.com/css?family=Source+Sans+Pro:400, 600\" rel=stylesheet type=text/css><link rel=stylesheet href=styles/dfc57042.vendor.css><link rel=stylesheet href=styles/79820ffe.main.css><body id=top class=home><!--[if lt IE 10]>\n<p class=\"browsehappy\">You are using an <strong>outdated</strong> browser. Please <a href=\"http://browsehappy.com/\">upgrade your browser</a> to improve your experience.</p>\n<![endif]--><!-- Navigation & Hero  --><header id=home><section class=hero id=hero><nav class=\"navbar navbar-default\" role=navigation><div class=container-fluid><div class=navbar-header><button type=button class=\"navbar-toggle collapsed\" data-toggle=collapse data-target=#navbar aria-expanded=false aria-controls=navbar><span class=sr-only>Toggle navigation</span> <span class=icon-bar></span> <span class=icon-bar></span> <span class=icon-bar></span></button> <a class=navbar-brand href=#></a></div><div id=navbar class=\"navbar-collapse collapse\"><ul class=\"nav navbar-nav navbar-center\"><li><a href=index.html>Home</a></li><li><a href=#about>About</a></li><li><a href=#resume>Resume</a></li><li><a href=#connect>Connect</a></li></ul></div></div></nav><div class=container><div class=row><div class=\"col-md-12 text-right navicon\"><a id=nav-toggle class=nav_slide_button href=#><span></span></a></div></div><div class=row><div class=\"col-md-12 text-center inner\"><h1 class=white>Jonathan Bannister</h1><h2 class=\"animated fadeInUp delay-05s white\">Trainer <span>|</span> Teacher <span>|</span> Coach</h2></div></div><div class=row><div class=\"col-md-6 col-md-offset-3 text-center animated fadeInUp delay-15s\"><a href=\"mailto:kylerose@gmail.com?subject=Hi Jonathan!\" class=contact-btn>Contact</a></div></div></div></section></header><!-- About Section --><section class=\"about section-padding\" id=about><div class=container><div class=row><div class=\"col-md-12 text-center\"><h2>About Jonathan</h2></div><div class=\"col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 text-center\"><p>A gifted athlete and an equally gifted teacher, coach, and instructor, Jonathan Bannister brings extensive first hand experience to everything he teaches</p></div></div></div></section><!-- Resume Section --><section class=\"resume section-padding\" id=resume><div class=container><div class=\"row col-md-6 col-md-offset-6 text-center\"><p class=well>For the past 7 years, Jonathan has operated a personal training business in Plano, TX. He has trained and helped transform over 50 clients in the Dallas Metropolitian Area.</p><a href=/docs/resume.pdf class=resume-btn>View Resume</a></div></div></section><!-- Certs Section --><section class=\"certs section-padding\"><div class=container><div class=row><div class=\"col-md-6 text-center\"><h2 id=certs-header>Certifications</h2></div><div class=\"col-md-6 text-center right left\"><h3>USA Track &amp;\n    Field Level 2 Coaching Certification</h3><h4>July, 2010 - USATF</h4><h5>Sprints/Hurdles/Relay Specialization</h5><p>Provides skills and knowledge to coach athletes at the collegiate level</p><h3>USA Track &amp;\n    Field Level 1 Coaching Certification</h3><h4>December, 2007 - USATF</h4><h5>Sprints/Hurdles/Relay Specialization</h5><p>Provides skills and knowledge to coach athletes at the Jr. High School, High School, Club, or Junior age level</p></div><div class=\"col-md-6 text-center\"><h2 id=experience-header>Experience</h2></div><div class=\"col-md-6 text-center right left\"><h3>Assistant Cross Country and Track &amp;\n    Field Coach</h3><h4>2007-2009 The Hockaday School - Dallas, TX</h4><p>Performed all administrative duties involved including team management, equipment and uniform management, meet entries, and parent management. Head coach for sprinters, hurdlers, relays</p><h3>Assistant Summer PSA Track &amp;\n    Field Coach</h3><h4>2003-2006, 2008-2009 - Plano, TX</h4><p>Performed all administrative duties involved with meet entries. Head coach for sprinters, hurdlers, and relays</p></div></div></div></section><!-- Testimonial Section --><section class=\"testimonial section-padding\"><div class=\"container quote\"><div class=row><div class=\"col-md-12 text-center\"><blockquote class=blockquote-reverse><h2>Jonathan is AMAZING! I can’t imagine where my life would be now without his personal training skills</h2><footer>-Ben Beyers <cite title=\"Source Title\">Big 10 Champion</cite></footer></blockquote></div></div></div></section><!-- Connect Section --><section class=\"connect section-padding\" id=connect><div class=\"container quote\"><div class=row><div class=\"col-md-12 text-center\"><h2>Connect With Jonathan</h2></div><div class=\"col-md-12 text-center\"><ul class=social-links><li><i class=\"fa fa-google-plus-square fa-4x\"></i></li><li><i class=\"fa fa-facebook-square fa-4x\"></i></li><li><i class=\"fa fa-twitter-square fa-4x\"></i></li><li><i class=\"fa fa-linkedin-square fa-4x\"></i></li><li><i class=\"fa fa-instagram fa-4x\"></i></li></ul></div></div></div></section><footer class=blue></footer><script src=scripts/4776dee8.vendor.js></script><!-- Google Analytics: change UA-XXXXX-X to be your site's ID. --><script>(function(b, o, i, l, e, r) {\n    b.GoogleAnalyticsObject=l;\n    b[l]||(b[l]=\nfunction() {\n    (b[l].q=b[l].q||[]).push(arguments);\n}\n);\n    b[l].l=+new Date;\n    e=o.createElement(i);\n    r=o.getElementsByTagName(i)[0];\n    e.src='//www.google-analytics.com/analytics.js';\n    r.parentNode.insertBefore(e, r);\n",
+			";\n",
+			"6A6969",
+			"raleway",
+			"after",
+			"0093cb",
+			"learn-more-btn",
+			"flipdow",
+			"transparent",
+			"Answer",
+			"Answer 1",
+			"Question ",
+			"h2",
+			"130px",
+			"editable_textarea",
+			" #ff6873",
+			"ff6873",
+			"fadeInUp",
+			"a",
+			"btn",
+			"fadeIn",
+			"zoomIn",
+			"zoomInDown",
+			"bounceInUp",
+			"transition",
+			"border",
+			"btn",
+			"header",
+			"right",
+			"margin",
+			"navbar",
+			"}\n",
+			"btn-",
+			"[",
+			"rouun",
+			"p",
+			"fff",
+			"a",
+			"images",
+			"sm",
+			"primary",
+			"../images",
+			"../images/",
+			"imagemin",
+			"border-rad",
+			"warning-bg",
+			"@kyle-acc",
+			"<?php bloginfo('template_directory'); ?>/library",
+			"@kyle-primary",
+			"@kyle-acc",
+			"div",
+			"enqu",
+			"php",
+			"awesome",
+			"font",
+			"enqueue",
+			"wp_register_style() ",
+			"col-sm-2 ",
+			"col-md-4",
+			"a",
+			"info",
+			"button",
+			"footer",
+			"02. ARTICLE WRAPPER",
+			"Dan Brown",
+			"src=\"<?php ",
+			"plus",
+			"font-famil",
+			"h3",
+			"360x260",
+			"class=\"img-responsive\"",
+			"smoothscroll",
+			"modal",
+			"hover",
+			"F4DA18",
+			"#F4DA18",
+			"hover",
+			"ani-mouse",
+			".header-10-sub",
+			"220px",
+			": ",
+			"          $('#",
+			");\n",
+			"getElementById",
+			"focus",
+			"default",
+			"h1",
+			"d37edb81f275402aab1601481b992f6f",
+			"sans",
+			"serif",
+			"section",
+			"font",
+			"container",
+			"font",
+			"navbar",
+			"    <div class=\"container\">\n      <div class=\"jumbotron\">\n        <h1>'Allo, 'Allo!</h1>\n        <p>You now have</p>\n        <ul>\n          <li>HTML5 Boilerplate</li>\n          <li>Bootstrap</li>\n          <li>Font Awesome <i class=\"fa fa-flag\"></i></li>\n        </ul>\n        <p>installed.</p>\n        <h3>Enjoy coding! - Yeoman</h3>\n      </div>\n    </div>",
+			"table",
+			"rgb",
+			"rgv",
+			"#",
+			"section1",
+			"section",
+			"td",
+			"development",
+			"header",
+			"footer",
+			"heigh",
+			"show_admin_bar",
+			"admin",
+			"admin_bar",
+			"radiu",
+			"radi",
+			"border",
+			".btn-primary:hover,\n.btn-primary:focus,\n.btn-primary:active,\n.btn-primary.active,\n.open > .dropdown-toggle.btn-primary {\n  background: #33a6cc;",
+			";\n",
+			"767",
+			"img",
+			"php",
+			"title",
+			"<br>",
+			"navbar",
+			"40px",
+			"40ox",
+			"left",
+			"tree",
+			"midcol"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$kyle-primary",
+			"$kyle-acc",
+			"#B8132A",
+			"#crappydesign",
+			"#design_critiques",
+			"",
+			"dist",
+			"Kyle"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8784,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1948,
+								1948
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"hasHeader": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 485.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/styles/main.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3465,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3179,
+								3179
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"hasHeader": false,
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 4113.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Gruntfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9032,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3765,
+								3765
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"hasHeader": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1853.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/cv.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10490,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6787,
+								6787
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"hasHeader": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2932.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/thanks.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6559,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2953,
+								2953
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"hasHeader": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2208.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/scripts/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 888,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								888,
+								888
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"hasHeader": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 107.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 116.0
+	},
+	"project": "Expert-feedback.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 173.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
