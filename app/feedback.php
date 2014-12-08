@@ -1,15 +1,3 @@
-<?php
-if (isset($_POST['send'])) {
-    $to = 'kylerose@gmail.com'; // Use your own email address
-        $subject = 'Expert feedback test';
-}
-
-$message = 'Chart Review Fee: ' . $_POST['inputCRfee'] . "\r\n\r\n";
-$message .= 'Deposition Fee: ' . $_POST['inputDepfee'] . "\r\n\r\n";
-$message .= 'Court Fee: ' . $_POST['inputCourtfee'] . "\r\n\r\n";
-
-echo $message;
-?>
 
 
 <!doctype html>
@@ -29,8 +17,8 @@ echo $message;
   <script src="//use.typekit.net/otq2uuf.js"></script>
   <script>try{Typekit.load();}catch(e){}</script>
   
+  <link rel="stylesheet" href="styles/bootstrap.css">
   <link rel="stylesheet" href="styles/main.css">
-  <link rel="stylesheet" href="styles/expert.css">
   <!-- build:js scripts/vendor/modernizr.js -->
   <script src="bower_components/modernizr/modernizr.js"></script>
   <!-- endbuild -->
@@ -51,11 +39,11 @@ echo $message;
         </div>
       </nav>
       <div class="container">
-        <div class="row logo-row "><img class="logo "src="images/logo.png"></div>
+        <div class="row logo-row "><img class="logo "src="images/tei-logo.png"></div>
       </div>
     </header>
     <!-- progress-bar  -->
-    <div class=" container progress-container hidden-xs">
+    <div class=" container main-container mt progress-container hidden-xs">
       <div class="row smpl-step mb hidden-xs" style="border-bottom: 0; min-width: 500px;">
         <div class="col-xs-4 smpl-step-step complete">
           <div class="text-center smpl-step-num">CASE OVERVIEW</div>
@@ -74,7 +62,7 @@ echo $message;
           <!-- <div class="smpl-step-info text-center">Your fee schedule</div> -->
         </div>
         <div class="col-xs-4 smpl-step-step active">
-          <div class="text-center smpl-step-num">FINISH</div>
+          <div class="text-center smpl-step-num emphasis">FINISH</div>
           <div class="progress">
             <div class="progress-bar"></div>
           </div>
@@ -85,29 +73,43 @@ echo $message;
       </div><!--  end progress bar -->
       
       
-      <div class="container">
-      <div class="testing visible-xs mb">STEP: <img src="images/3.svg" width="20px"> of <img src="images/3.svg" width="20px"> </div>  
+      <div class="container main-container mt">
+      <div class="testing visible-xs mb mt">STEP: <img src="images/3.svg" width="20px"> of <img src="images/3.svg" width="20px"> </div>  
         <!-- INTRO SECTION -->
-            <div class="row sec-intro mb">
+            <div class="row sec-intro mb mt">
 
-              <div class="col-md-6 ">
+              <div class="col-md-6 col-md-offset-1 ">
                 <div class="pbBody">
-                <h2 class="">YOUR FEEDBACK HAS BEEN SUBMITTED SUCCESSFULLY</h2>
+                
                   <h2 class="g-m-title">Thank You Dr. Stone,</h2>
-                    <p>We will share your answers with the client and get back to you!<br><br>  
+                    <p>We have received your feedback successfully.<br><br>  
 
-                    If you have any more questions, don't hesitate to contact me. <br><br>
+                    We will contact you as soon as our client has reviewed your response. In the meantime, feel free to contact me with any questions. <br><br>
 
-                    <em>Fazia Patten</em>
+                    <em>Faiza Patten</em>
                       </p>
                 </div>
+
+                <?php
+                if (isset($_POST['send'])) {
+                    $to = 'kylerose@gmail.com'; // Use your own email address
+                        $subject = 'Expert feedback test';
+                }
+
+                $message = 'Chart Review Fee: ' . $_POST['inputCRfee'] . "\r\n\r\n";
+                $message .= 'Deposition Fee: ' . $_POST['inputDepfee'] . "\r\n\r\n";
+                $message .= 'Court Fee: ' . $_POST['inputCourtfee'] . "\r\n\r\n";
+
+                echo $message;
+                ?>
+
               </div>
-              <div class="col-md-6 card">
+              <div class="col-md-4  card">
                 <div class="case-manager-card">
                   <div class="cardimg">
                     <img class="case-manager-img" src="images/Faiza.jpg">
                     <p>Your Case Manager:</p>
-                    <h2>Fazia Patten</h2>
+                    <h2>Faiza Patten</h2>
                   </div>
 
                   <ul>
@@ -128,44 +130,26 @@ echo $message;
                 </div>
               </div>
 
-              <div class="form-group text-center">
+
+
+
+            </div> <!-- end row -->
+
+            <div class="row mb">
+              <div class="form-group text-center mt ">
                   <div class="col-md-offset-4 col-md-4 col-xs-12">
                       <a href="index.html"><button class="submit is-valid btn-valid">EXIT</button></a>
-                    <!-- <button class="submit send">CONTINUE</button> -->
+              
                   </div>
               </div>
-
-
             </div>
+
                 
-
-
-
-
-
-
-                <br>
-                <br>
-                <br>
-                <br>
-                <br>
-                <br>
-                <br>
-                <br>
-                <br>
-                <br>
-                <br>
-                <br>
-                <br>
-                <br>
-                <br>
-                <br>
-                <br>
-                <br>
-                <br>
-                <br>
                 </div> <!-- end main container  -->
                 </div> <!-- END CONTAINER -->
+
+                <br>
+                <footer class="mt"></footer>
                 <!--[if lt IE 7]>
                   <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
                 <![endif]-->

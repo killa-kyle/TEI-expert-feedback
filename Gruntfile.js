@@ -38,7 +38,7 @@ module.exports = function(grunt) {
                     livereload: '<%= connect.options.livereload %>'
                 },
                 files: [
-                    '<%= yeoman.app %>/*.html',
+                    '<%= yeoman.app %>/*.{html,php}',
                     '{.tmp,<%= yeoman.app %>}/styles/{,*/}*.css',
                     '{.tmp,<%= yeoman.app %>}/scripts/{,*/}*.js',
                     '<%= yeoman.app %>/images/{,*/}*.{png,jpg,jpeg,gif,webp,svg}'
@@ -124,8 +124,8 @@ module.exports = function(grunt) {
         less: {
             dist: {
                 files: {
-                    '<%= yeoman.app %>/styles/main.css': ['<%= yeoman.app %>/styles/main.less']
-                    // '<%= yeoman.app %>/styles/test.css': ['<%= yeoman.app %>/styles/test.less']
+                    '<%= yeoman.app %>/styles/main.css': ['<%= yeoman.app %>/styles/main.less'],
+                    '<%= yeoman.app %>/styles/bootstrap.css': ['<%= yeoman.app %>/styles/bootstrap.less']
                 },
                 options: {
                     sourceMap: true,

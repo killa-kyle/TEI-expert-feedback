@@ -16,7 +16,11 @@ $('.read-more-hide').on('click', function(e) {
     e.preventDefault();
 });
 
-
+//form currency formatting 
+$('.hourly').before('$ ');
+$('.hourly').after(' /hr');
+$('.daily').after(' /day');
+$('.daily').before('$ ');
 
 // form slider
 function show_value(x) {
@@ -111,7 +115,6 @@ var simpleValidation = function() {
 simpleValidation()
 
 
-
 //visual validation status button 
 jQuery('document').ready(function($) {
     $('.validate').keyup(function() {
@@ -124,11 +127,12 @@ jQuery('document').ready(function($) {
         });
 
         if (empty) {
-            $('.send').prop('disabled', true);
+            // $('.send').prop('disabled', true);
             $('.send').css('background-color', '#ccc');
             $('.send').css('color', '#fff');
+
         } else {
-            $('.send').prop('disabled', false);
+            $('input[type=submit]').prop('disabled', false);
             $('send').addClass('btn-valid');
             $('.send').css({
                 'background-color': '#AAD661',
@@ -137,4 +141,5 @@ jQuery('document').ready(function($) {
             });
         }
     });
+
 });
